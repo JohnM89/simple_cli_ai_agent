@@ -1,0 +1,4 @@
+
+MAX_CALLS = 20
+MAX_CHARS = 1000
+WORKING_DIRECTORY = "./calculator"
